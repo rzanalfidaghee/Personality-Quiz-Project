@@ -7,7 +7,7 @@ body {
 /* STYLE TEXT */
 h1 {
   font-style: italic;
-  color: #0d9c90;
+  color: #2c0d9c;
 }
 
 h2 {
@@ -30,9 +30,12 @@ h2 {
 /* STYLE IMAGES */
 .answer-choice img {
   height: 10em;
+  width: 15em;
 }
 
 /* STYLE BUTTON */
 button { 
   margin-top: 5px;
+  background-color: #d0c9e8;
+  color: #2c0d9c;
 }
