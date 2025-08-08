@@ -2,6 +2,8 @@
 body {
   font-family: "Benton Sans", "Helvetica Neue", helvetica, arial, sans-serif;
   margin: 2em;
+  text-align: center;
+  background-color: #e3def2;
 }
 
 /* STYLE TEXT */
@@ -18,8 +20,9 @@ h2 {
 .question {
   display: flex;
   /* uncomment the next line to center the questions and answers */
-  /* justify-content: center; */
+  justify-content: center;
   margin-top: 2em;
+  background-color: #5f25b6;
 }
   
 /* STYLE FLEX ITEM */
@@ -38,4 +41,5 @@ button {
   margin-top: 5px;
   background-color: #d0c9e8;
   color: #2c0d9c;
+  border-color: #d0c9e8;
 }

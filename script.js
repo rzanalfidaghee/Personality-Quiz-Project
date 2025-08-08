@@ -70,8 +70,8 @@ function updateResult(){
 //function to restart the quiz
 function startOver(){
   result.innerHTML = "You're more connected with the..."
-  var leftScore = 0
-  var rightScore = 0
-  var questionsAnswered = 0
+  leftScore = 0
+  rightScore = 0
+  questionsAnswered = 0
   console.log("leftScore = " + leftScore + " rightScore = " + rightScore + " questionsAnswered = " + questionsAnswered)
 }
